@@ -19,10 +19,11 @@ distributions. Access the built-in help by long-pressing anywhere on the
 terminal and selecting the Help menu option to learn more.
 
 Read help online: https://wiki.termux.com/
-
 Reddit Community: https://termux.com/community
+
 License: GNU General Public License v3.0 only Website Issue Tracker Source Code Changelog Build Metadata
-Donate: termux.com/donate.html
+
+Donate: https://termux.com/donate.html
    
 Versions
 Although APK downloads are available below to give you the choice, you should be aware that by installing that way you will not receive update notifications and it's a less secure way to download. We recommend that you install the F-Droid client and use that.
